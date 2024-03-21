@@ -32,11 +32,9 @@ How the code is structured:
 
 How to run the code: 
 
-1. Decompress imm1293_assmt1.zip and open the source code in PyCharm. 
+1. Move all the heuristic files and input file in the same folder as the source code.
 
-2. Move all the heuristic files and input file in the same folder as the source code.
+2. Either press build and run on PyCharm.
 
-3. Either press build and run on PyCharm.
-
-4. Or, On the terminal, type "python find_route.py input1.txt Bremen Kassel" and press Enter for uninformed search.
+3. Or, On the terminal, type "python find_route.py input1.txt Bremen Kassel" and press Enter for uninformed search.
    and type "python find_route.py input1.txt Bremen Kassel h_kassel.txt" and press Enter for informed search.
