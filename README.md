@@ -1,8 +1,8 @@
 # Intelligent-Search-Systems
-# This code was written as part of my CSE 4308 Artificial Intelligence class.
+This code was written as part of my CSE 4308 Artificial Intelligence class.
 
-# Name: Inshaad Merchant
-# ID: 1001861293
+Name: Inshaad Merchant
+ID: 1001861293
 
 
 Language used: Python
