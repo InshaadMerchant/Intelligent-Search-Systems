@@ -2,14 +2,17 @@
 This code was written as part of my CSE 4308 Artificial Intelligence class.
 
 Name: Inshaad Merchant
+
 ID: 1001861293
 
 
 Language used: Python
-Python Version: Python 3.9.13
-For compilation and testing use: PyCharm
-Omega Compatibility: No
 
+Python Version: Python 3.9.13
+
+For compilation and testing use: PyCharm
+
+Omega Compatibility: No
 
 
 How the code is structured:
